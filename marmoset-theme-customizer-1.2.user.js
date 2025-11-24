@@ -29,7 +29,7 @@
         controlPanel.id = 'marmoset-color-controls';
         controlPanel.innerHTML = `
             <div class="color-controls-header">
-                <h3>🎨 Marmoset Theme</h3>
+                <h3>Marmoset Theme</h3>
                 <button id="toggle-controls">−</button>
             </div>
             <div class="color-controls-body">
